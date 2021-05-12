@@ -1,0 +1,14 @@
+* {
+  background-color: midnightblue;
+  color: white;
+}
+
+body {
+  margin-left: 30px;
+  margin-top: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: yellow;
+}
